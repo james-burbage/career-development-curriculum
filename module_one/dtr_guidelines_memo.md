@@ -29,39 +29,24 @@ Any additional questions that you would like to add:
 
 
 ### Template for DTR Memo
-
-Project: 
-
-Group Member Names:
-
+Project: 2DoBox
+Group Member Names: Laura Whitaker, James Burbage
 Project Expectations: What does each group member hope to get out of this project? 
-
-Goals and expectations:
-	
-Team strengths:
-
-How to overcome obstacles:
-
-Schedule Expectations (When are we available to work together and individually?):
-
-Communication Expectations (How and often will we communicate? How do we keep lines of communication open?):
-
-Abilities Expectations (Technical strengths and areas for desired improvement):
-
-Workload Expectations (What features do we each want to work on?):
-
-Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests): 
-
-Expectations for giving and receiving feedback:
-
-Agenda to discuss project launch:
-
-Ideas:
+Goals and expectations: James: Practice on Javascript!!! Laura: Get more confident partnering.
+    
+Team strengths: Communication!
+How to overcome obstacles: Collaborate!
+Schedule Expectations (When are we available to work together and individually?): Weekends and through screenshare.
+Communication Expectations (How and often will we communicate? How do we keep lines of communication open?): Screenshare & everyday.
+Abilities Expectations (Technical strengths and areas for desired improvement): James: strengths: CSS areas of improvement: JS, Laura: strengths: JS, areas of improvement: communication.
+Workload Expectations (What features do we each want to work on?): Equal distribution.
+Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests): Each utilize own branch.
+Expectations for giving and receiving feedback: High, be good partners!
+Agenda to discuss project launch: ASAP
+Ideas: Collaborate and get through all phases!
  
-Tools: 
-
+Tools: Goggle
 Additional Notes:
-
 
 
 
